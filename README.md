@@ -56,13 +56,13 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
 
 ## 🔧 Technologies
 
-- ![Vue.js](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vue-dot-js.svg) **Vue.js**  
-- ![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg) **HTML5**  
-- ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg) **CSS3**  
-- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg) **JavaScript**  
-- ![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg) **Node.js**  
-- ![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg) **Express.js**  
-- ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg) **Python**  
-- ![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg) **MySQL**  
-- ![OpenAI](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/openai.svg) **OpenAI GPT-3**  
-- ![Apple Developer API](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apple.svg) **Apple Developer API**
+- **Vue.js**  
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- **Node.js**  
+- **Express.js**  
+- **Python**  
+- **MySQL**  
+- **OpenAI GPT-3**  
+- **Apple Developer API**
