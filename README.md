@@ -50,7 +50,7 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/ritacosta93/)  
-- [Email](rita.dev4u@gmail.com)
+- [Email](mailto:rita.dev4u@gmail.com)
 
 ---
 
