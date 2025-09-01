@@ -6,7 +6,7 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
 
 ## 🔧 My Skills
 
-- **Front-End:** Vue.js, HTML5, CSS, JavaScript  
+- **Front-End:** Vue.js, HTML5, CSS, JavaScript, React.js, Typescript  
 - **Back-End:** Node.js, Express.js, REST APIs, Python  
 - **Mobile Development:** iOS Push Notifications (APNs), Apple Developer API  
 - **Databases:** MySQL  
@@ -61,6 +61,7 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
