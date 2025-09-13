@@ -10,7 +10,7 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
 - **Back-End:** Node.js, Express.js, REST APIs, Python  
 - **Mobile Development:** iOS Push Notifications (APNs), Apple Developer API  
 - **Databases:** MySQL  
-- **AI/ML:** Python, OpenAI GPT-3  
+- **AI/ML:** Python, OpenAI GPT-3
 
 ---
 
@@ -35,13 +35,6 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
 - Building scalable, real-time systems and API integrations.  
 - Learning more about AI and ML to integrate intelligent features into applications.  
 - Contributing to open-source projects and exploring new tech stacks.
-
----
-
-## 📫 How to Reach Me
-
-- [🔗 LinkedIn](https://www.linkedin.com/in/ritacosta93/)
-- [📧 Email](mailto:rita.dev4u@gmail.com)
 
 ---
 
