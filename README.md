@@ -24,14 +24,6 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
   Developed a Python-based desktop app for analyzing sentiment in emails using OpenAI GPT-3. Built a GUI for email selection and report generation, with text preprocessing and error handling to ensure a smooth user experience.
 ---
 
-## 🌱 What I’m Currently Working On
-
-- Building scalable, real-time systems and API integrations.  
-- Learning more about AI and ML to integrate intelligent features into applications.  
-- Contributing to open-source projects and exploring new tech stacks.
-
----
-
 ## 🔧 Technologies
 
 <div style="display: flex; flex-wrap: wrap;">
