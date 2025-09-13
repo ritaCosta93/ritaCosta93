@@ -28,15 +28,6 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
 - **🔄 WordPress Subscriber Management API**  
   Created a secure RESTful Express.js API for managing WordPress subscribers, enabling CRUD operations and handling authentication using WordPress Application Passwords.
 
-- **♻️ National Organic Waste & Composting Management System**  
-  Designed a system to track and forecast composting adoption's environmental impact on a national level, integrating demographic, financial, and environmental data to support strategic planning.
-
-- **🧬 Gene Sequencing Visualization Simulator**  
-  Built an interactive HTML5 Canvas simulation to visualize gene sequencing. Focused on educational accessibility, making complex biological concepts easier to understand through animated visuals.
-
-- **🧠 Linear Classification Simulation**  
-  Developed an interactive Python-based simulation for teaching linear classification in machine learning. Used real-time feedback, adjustable parameters, and performance evaluation to create a hands-on learning experience.
-
 ---
 
 ## 🌱 What I’m Currently Working On
