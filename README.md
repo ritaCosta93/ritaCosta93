@@ -22,10 +22,6 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
 
 - **📧 Email Sentiment Analysis with GPT-3**  
   Developed a Python-based desktop app for analyzing sentiment in emails using OpenAI GPT-3. Built a GUI for email selection and report generation, with text preprocessing and error handling to ensure a smooth user experience.
-
-- **🔄 WordPress Subscriber Management API**  
-  Created a secure RESTful Express.js API for managing WordPress subscribers, enabling CRUD operations and handling authentication using WordPress Application Passwords.
-
 ---
 
 ## 🌱 What I’m Currently Working On
