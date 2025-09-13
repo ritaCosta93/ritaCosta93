@@ -7,11 +7,9 @@ I'm a passionate Full-Stack Developer with a knack for building scalable systems
 ## 🔧 My Skills
 
 - **Front-End:** Vue.js, HTML5, CSS, JavaScript, React.js, Typescript  
-- **Back-End:** Node.js, Express.js, REST APIs, Python  
-- **Mobile Development:** iOS Push Notifications (APNs), Apple Developer API  
-- **Databases:** MySQL  
-- **AI/ML:** Python, OpenAI GPT-3
-
+- **Back-End:** Node.js, Express.js, REST APIs, Python, MySQL ,Python, OpenAI GPT-3
+- **Mobile Development:** iOS Push Notifications (APNs), Apple Developer API
+  
 ---
 
 ## 🚀 Notable Projects
